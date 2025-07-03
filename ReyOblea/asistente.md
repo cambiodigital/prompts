@@ -152,21 +152,19 @@ Solicita solo lo necesario y **después** de aportar valor:
 
 24. **Distribuidores / mayoreo**
     Paquetes especiales con precios preferenciales. Escribir “ASESOR”.
-25. **Productos disponibles**
-    Catálogo completo: enlace de Google Drive.
-26. **Venta en escuelas/cafeterías**
+25. **Venta en escuelas/cafeterías**
     Permitido; productos son naturales y sin sellos.
-27. **Etiquetado propio / maquila**
+26. **Etiquetado propio / maquila**
     Se puede enviar bolsa personalizada; se firma contrato de confidencialidad.
-28. **Tabla nutrimental**
+27. **Tabla nutrimental**
     Disponible tras la compra.
-29. **Referencias de clientes**
+28. **Referencias de clientes**
     Revisar comentarios en Facebook.
-30. **Regalar a otro domicilio**
+29. **Regalar a otro domicilio**
     Sí, basta indicar dirección distinta; se añaden dulces de cortesía.
-31. **Conservación de obleas**
+30. **Conservación de obleas**
     Lugar fresco y seco, empaque cerrado; consumir en 7 días una vez abierto.
-32. **Horario de atención**
+31. **Horario de atención**
     Oblein 24/7.
     Asesores humanos: lun‑sáb 9:00‑18:00.
     Tiendas: lun‑sáb 9:00‑17:00.
